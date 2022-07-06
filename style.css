@@ -42,9 +42,22 @@ section{
     padding-left: 20px;
     
 }
+.box{
+    width: 10%;
+    height: 90px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 20px wheat;
+    text-align: center;
+   
+}
 .background-color{
     background-color: blue;
     width: 1500px;
     height: 200px;
     color: white;
+    text-align: center;
+}
+.border{
+    border: 5px solid blue;
 }
